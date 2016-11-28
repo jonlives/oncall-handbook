@@ -12,7 +12,7 @@ It's helpful to have a checklist that you run through prior to going on-call to 
 6. When you're home for the evening, if at all possible, go ahead and have your laptop set up and ready to go. That way you're not fumbling to get it out of your bag and plugged in, etc. at 3 A.M.
 7. A hands-free kit for your phone, whether this be the headphones that came with it or a bluetooth earpiece. Make sure you've tested it with your phone in advance of going on-call. It's good to keep your hands available in case you need to call up a colleague or join a conference call.
 7. A smart watch (pebble, Apple watch, etc.) can be helpful for late night alerts. The vibration of a smart watch will wake only you up where an audible alert from your phone might also wake up your partner as well. Have your charger handy just in case.
-8. A small zippable bag to keep all of your on-call kit in (other than your laptop). Your items, such as chargers, should never leave this bag unless you are using them on call. That way you never have to scramble to be ready for on-call. 
+8. A small zippable bag to keep all of your on-call kit in (other than your laptop). Your items, such as chargers, should never leave this bag unless you are using them on call. That way you never have to scramble to be ready for on-call. The [Cocoon Grid-it](https://www.cocooninnovations.com/grid.php) is also a good option here.
 
 ## Datacenter kit
 
